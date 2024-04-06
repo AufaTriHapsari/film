@@ -7,4 +7,4 @@ Dengan iCinemax, pengguna dapat memesan tiket secara online. Mereka dapat meliha
 Admin memiliki kontrol penuh atas film-film yang ditampilkan, jadwal pemutaran, dan data pengguna. Mereka dapat mengelola operasional bioskop dengan efisien melalui antarmuka admin yang ramah pengguna. Sistem keamanan yang kuat menjaga informasi pengguna tetap aman.
 
 ## Link Hosting
-Kunjungi [webbookingfilm.rf.gd](webbookingfilm.rf.gd) untuk memesan tiket secara online.
+webbookingfilm.rf.gd
