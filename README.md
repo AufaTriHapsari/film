@@ -6,5 +6,9 @@ Dengan iCinemax, pengguna dapat memesan tiket secara online. Mereka dapat meliha
 
 Admin memiliki kontrol penuh atas film-film yang ditampilkan, jadwal pemutaran, dan data pengguna. Mereka dapat mengelola operasional bioskop dengan efisien melalui antarmuka admin yang ramah pengguna. Sistem keamanan yang kuat menjaga informasi pengguna tetap aman.
 
+Login admin 
+email : admin@gmail.com
+pass : 123
+
 ## Link Hosting
 webbookingfilm.rf.gd
